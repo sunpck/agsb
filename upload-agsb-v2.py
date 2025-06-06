@@ -35,7 +35,7 @@ USER_NAME = "super"         # 用户名
 UUID = "6ea808f2-90b7-4ff9-8cc5-9629a86feebd"                     # UUID，留空则自动生成
 PORT = 53953                   # Vmess端口，留空或0则自动生成
 DOMAIN = "ces.chnn.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNzU0ZjJmMGRhY2Q2NTdlNDMwYzU3YjU3YzgwZDA3YzIiLCJ0IjoiNjZmOTIyY2QtY2E5OC00YWFjLWJkOTItZmE5Y2RjNWNlNmRhIiwicyI6Ill6bGhNamN5TWpZdE5EWTFaaTAwTlRreExUaGxOVGd0TURFME5tVXlaRFUwTmpkaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiZTUzZmEwNjUxMjE2YWM3YjI1MGQwYjRiNTgwMTg5NjIiLCJ0IjoiNzA4M2U0OGQtMTI5NC00MDBjLWE4ZTYtYjI3NzFlYzgxM2UzIiwicyI6Ik9XTmlabVJqTTJFdE5UTTJNUzAwWTJWa0xUazNOV0l0T0RVMU0yUTFOMkl6TnpReiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
